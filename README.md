@@ -6,3 +6,4 @@ Bu kartlar oyun başladığında resimleri görünmeyecek şekilde arka yüzleri
 Tüm eşleşmeler tamamlanıncaya kadar oyun devam eder.<br/>
 Eşleşmeler tamamlandığında oyuncuya skorunun ve süresinin belirtildiği bir uyarı ekranı gelir.<br/>
 Oyuncu isterse zor bölümü oynayabilmek için bu uyarı sayfasından giriş ekranına geri dönebilir.
+Ödevi yapanlar: Duygu Bahar 1190505624 ve Doğa Nur Kartal 1190505068

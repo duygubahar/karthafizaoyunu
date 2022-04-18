@@ -7,3 +7,4 @@ Tüm eşleşmeler tamamlanıncaya kadar oyun devam eder.<br/>
 Eşleşmeler tamamlandığında oyuncuya skorunun ve süresinin belirtildiği bir uyarı ekranı gelir.<br/>
 Oyuncu isterse zor bölümü oynayabilmek için bu uyarı sayfasından giriş ekranına geri dönebilir.
 Ödevi yapanlar: Duygu Bahar 1190505624 ve Doğa Nur Kartal 1190505068
+![video-to-gif-converter](https://user-images.githubusercontent.com/103886178/163863347-9b6f58cc-1320-4dbf-a2bc-c903d2c89d2f.gif)
